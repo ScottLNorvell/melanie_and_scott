@@ -1,0 +1,3 @@
+# Melanie and Scott's Wedding Website
+
+That's about it...
