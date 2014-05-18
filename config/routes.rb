@@ -5,7 +5,7 @@ MelanieAndScott::Application.routes.draw do
   get 'location' => 'home#location'
   get 'directions' => 'home#directions'
   get 'registry' => 'home#registry'
-  get 'accomodations' => 'home#accomodations'
+  get 'accommodations' => 'home#accommodations'
 
   get 'update/text' => 'update#text'
   get 'update/addresses' => 'update#addresses'

@@ -18,4 +18,8 @@ class HomeController < ApplicationController
   def registry
 
   end
+
+  def accommodations
+    
+  end
 end
