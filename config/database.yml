@@ -53,6 +53,5 @@ production:
   encoding: unicode
   database: melanie_and_scott_production
   pool: 5
-  username: scottsMac
-  host: localhost
-  password:
+  username: ubuntu
+  password: ubuntu
